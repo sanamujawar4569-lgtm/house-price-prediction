@@ -21,3 +21,9 @@ python , pandas , scikit-learn , matplotlib
 ---
 made by: sanamujawar4569-lgtm
  
+*** dataset:*** King country house sales data
+** algorithm used:** Linear Regression + Random Forest
+** Accuracy:** R2 score= 0.89
+
+## result
+predict rate of house :$696,816
